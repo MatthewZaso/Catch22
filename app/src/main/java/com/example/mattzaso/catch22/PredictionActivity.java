@@ -26,7 +26,7 @@ import java.util.List;
 public class PredictionActivity extends Activity {
 
     private static final String QUERY_URL = "http://proximobus.appspot.com/agencies/sf-muni/";
-    private static final String CHESTNUT_ST_ID = "14608";
+    private static final String CHESTNUT_ST_ID = "14609";
     private static final String FILLMORE_BUS_ID = "22";
 
     @Override
