@@ -2,7 +2,9 @@
 <resources>
 
     <string name="app_name">Catch22</string>
-    <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="refresh">Refresh</string>
+    <string name="bus_stops">Bus Stops</string>
+    <string name="chestnut_street">Chestnut Street</string>
 
 </resources>
